@@ -1,0 +1,23 @@
+Project Structure:
+
+
+healthcare-predictive-analytics-disease-detection/
+│
+├── data/
+│   └── disease_diagnosis.csv
+│
+├── notebooks/
+│   └── healthcare_prediction.ipynb
+│
+├── images/
+│   ├── confusion_matrix.png
+│   ├── roc_curve.png
+│   └── feature_importance.png
+│
+├── models/
+│   ├── disease_prediction_model.pkl
+│   └── scaler.pkl
+│
+├── requirements.txt
+├── README.md
+└── LICENSE
